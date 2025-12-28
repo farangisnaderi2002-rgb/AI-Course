@@ -1,9 +1,5 @@
 # Group 31
 
-
-
-## Iliya Nazmehr
-=======
 ## Project by:
 **Shirin Abdolahzade, AmirSahand Haeri For Dr. Maryam Hajiesmaeili --- Group Number 31 @IAUCTB**
 # University Chatbot Project
