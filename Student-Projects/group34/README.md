@@ -1,6 +1,7 @@
 # AI & Music Fusion 🎵🤖
 
 group members:
+
 Farangis Naderi Qomi
 
 ## Overview
@@ -35,4 +36,5 @@ This project is currently in the research and experimental phase.
 - Support more musical styles
 - Real-time music generation
 
+
 
