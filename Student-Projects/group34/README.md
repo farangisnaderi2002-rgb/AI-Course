@@ -1,5 +1,8 @@
 # AI & Music Fusion 🎵🤖
 
+group members:
+Farangis Naderi Qomi
+
 ## Overview
 This project explores the intersection of artificial intelligence and music, focusing on how AI models can analyze, generate, or enhance musical content.
 
@@ -32,3 +35,4 @@ This project is currently in the research and experimental phase.
 - Support more musical styles
 - Real-time music generation
 
+
